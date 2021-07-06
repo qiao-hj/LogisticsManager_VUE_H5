@@ -1,0 +1,1 @@
+<!--pages/main/main.wxml--><web-view src="{{mainurl}}" bindload="bindload" binderror="binderror"></web-view>
