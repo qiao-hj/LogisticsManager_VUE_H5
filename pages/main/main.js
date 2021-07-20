@@ -6,7 +6,7 @@ Page({
    */
   data: {
       openid:"",
-      url:"https://hq.chutiange.cn",
+      url:"https://hq.yygikpk.cn",
       mainurl:""
   },
 
