@@ -31,7 +31,7 @@ App({
     },
     globalData: {
         // api:"http://192.168.199.103:8080",
-        api: "https://hq.yygikpk.cn/dev-api",
+        api: "https://hq.feiyikj.com.cn/dev-api",
         appid: 'wxfb5a6a9b6c320530',
         secret: '48e25f83b10834981dda9741cebf62e1',
     }
